@@ -18,7 +18,7 @@ The analysis and reporting were conducted using Microsoft Power BI.
 
 ## Data Visualization
 
-![]()
+![](https://github.com/rukayatrafiu/Space-Mission-Analysis/commit/02586727d9237e5ed48fee04c141bb2682b5434d)
 
 ## Insights
 

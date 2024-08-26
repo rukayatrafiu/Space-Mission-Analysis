@@ -18,7 +18,7 @@ The analysis and reporting were conducted using Microsoft Power BI.
 
 ## Data Visualization
 
-![](https://github.com/rukayatrafiu/Space-Mission-Analysis/commit/02586727d9237e5ed48fee04c141bb2682b5434d)
+![]()
 
 ## Insights
 
@@ -36,3 +36,7 @@ The analysis and reporting were conducted using Microsoft Power BI.
 - Given the substantial $162.3 billion investment, it is important to continue optimizing resource allocation and financial planning to achieve better cost efficiency.
 - With a growing number of missions since 2010, space agencies should capitalize on technological advancements and increased global interest to expand their mission portfolios.
 - Expanding launch sites to new regions could mitigate risks associated with over-reliance on specific locations and enhance global mission coverage.
+
+## Report
+
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNDk2NDhjYmMtM2EzZS00ODQxLTk1ZjYtN2MzYWMwYWE4YmM5IiwidCI6IjM5MmYwNTUzLTJmMjEtNDc0YS1iNTdjLWIyZDI5NjBjZmU3OSJ9)
